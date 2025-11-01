@@ -1,0 +1,11 @@
+{
+    "asset": "26126638666e5054787ae7290eecb6ca",
+    "fileName": "019a3e00-4c1a-705d-b56c-784fe1271f68_Preview.png",
+    "prompt": "Emerald /\r\ndeep translucent green\r\nfaceted gemstone surface\r\nPBR refractive shader\r\nchromatic dispersion / subtle color fringing\r\nsubsurface scattering / internal translucency\r\nhigh gloss / low roughness (0.0–0.15)\r\nrealistic index of refraction (IOR ~1.57)\r\ncaustics / light scattering\r\npolished cut facets and crisp edges\r\nmicrofacet normals / fine surface detail\r\nrim light / strong fresnel\r\ninternal inclusions / natural flaws\r\nHDR reflections, cinematic studio lighting\r\nprocedural scratches and polish variation\r\nthin polish wear at edges\r\ntranslucent colored transmission\r\nvolumetric light shafts / subtle bloom\r\nhigh-resolution textures (4k+)\r\nShader Graph / HDRP / URP compatible",
+    "negativePrompt": "plastic, rubber, resin\r\nflat matte, desaturated\r\nlow-res, blurry, pixelated\r\nvisible seams or harsh tiling\r\nbanding, posterization\r\noverexposed bloom / blown highlights\r\ndirty, smudged, fingerprints\r\nincorrect color (blue, purple unless intentional)\r\nnon-PBR / legacy shader\r\nmetallic look (像金屬)\r\nbroken normals, inverted normals\r\njagged edges / aliasing\r\nnoisy, grainy reflections\r\nwatermark, text, logos\r\nfaces, hands, unrelated objects\r\nunrealistic flat specular without depth\r\nclipping, geometry artifacts",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1761541793,
+    "w3CTraceId": "6ee7ef50c5d59ab1ae832f47904f6ab0",
+    "refinementMode": "Generation"
+}

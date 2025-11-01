@@ -1,0 +1,11 @@
+{
+    "asset": "8289d4820ea341a4298a59c501fbee23",
+    "fileName": "019a3e08-3dfd-7469-8cdc-1ad7ec3de962_Preview.png",
+    "prompt": "obsidian , minecraft texture",
+    "negativePrompt": "plastic, resin, rubber\r\nneon overexposed / oversaturated glow\r\nflat matte, desaturated\r\nhigh metallic, chrome look\r\nnoisy, grainy, compression artifacts\r\nharsh tiling, visible seams\r\nbanding / posterization\r\njagged edges / aliasing\r\nfaces, text, logos, unrelated objects\r\nlow-res, blurry, pixelated\r\nnon-PBR legacy shader",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1096431150,
+    "w3CTraceId": "90509f1878d77a50a93a654d0304d614",
+    "refinementMode": "Generation"
+}

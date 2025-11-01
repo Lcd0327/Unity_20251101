@@ -1,0 +1,11 @@
+{
+    "asset": "26126638666e5054787ae7290eecb6ca",
+    "fileName": "019a3dfb-d4e9-772b-b86c-208cc160bfc4_Preview.png",
+    "prompt": "gamma doppler 4K(4096x4096) on cs knife",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 256526813,
+    "w3CTraceId": "9f3779b73b8c8dfe2fdcbaaf88a45e44",
+    "refinementMode": "Generation"
+}

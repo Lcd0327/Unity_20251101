@@ -1,0 +1,11 @@
+{
+    "asset": "8289d4820ea341a4298a59c501fbee23",
+    "fileName": "019a3e06-bf19-777f-a077-17e783bc307b_Preview.png",
+    "prompt": "green smoke / verdant wisps / emerald plume\r\ndeep translucent green / semi‑translucent\r\nsoft volumetric scattering / foggy transmission\r\nsubtle emission (green) / HDR glow\r\nsmoothness 0.3–0.7 / low metallic (0.0)\r\nsubsurface scattering / internal light scatter\r\nthin translucent layers / layered transparency\r\nanisotropic microdetail / fine noise normal\r\nsoft rim lighting / fresnel tint (green)\r\nsoft particles blur / motion blur friendly\r\nseamless tiling / high resolution\r\nShader Graph / URP HDRP compatible\r\ncaustic-like light shafts (subtle)\r\npolished organic look / soft edges",
+    "negativePrompt": "plastic, resin, rubber\r\nneon overexposed / oversaturated glow\r\nflat matte, desaturated\r\nhigh metallic, chrome look\r\nnoisy, grainy, compression artifacts\r\nharsh tiling, visible seams\r\nbanding / posterization\r\njagged edges / aliasing\r\nfaces, text, logos, unrelated objects\r\nlow-res, blurry, pixelated\r\nnon-PBR legacy shader",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 249943049,
+    "w3CTraceId": "e0e61596cb537d49ba1da507c2006fb7",
+    "refinementMode": "Generation"
+}

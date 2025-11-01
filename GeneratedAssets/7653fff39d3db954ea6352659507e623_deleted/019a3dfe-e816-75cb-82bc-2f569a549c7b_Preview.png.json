@@ -1,0 +1,11 @@
+{
+    "asset": "26126638666e5054787ae7290eecb6ca",
+    "fileName": "019a3dfe-e816-75cb-82bc-2f569a549c7b_Preview.png",
+    "prompt": "Gamma Doppler\r\ncolor-shifting iridescence\r\nthin-film interference\r\nholographic sheen\r\nprismatic reflections\r\nPBR metallic shader\r\nhigh gloss / smoothness 0.8-1.0\r\nstrong fresnel rim\r\nanisotropic specular\r\nHDR emission subtle glow\r\nShader Graph / HDRP / URP compatible\r\nfine normal map detail\r\nsubtle UV distortion / flow\r\nspecular tint (cyan → magenta shift)\r\nno seam tiling (seamless)\r\ncinematic studio lighting\r\nclean crisp highlights\r\nhigh resolution texture\r\nprocedural noise for micro-detail\r\npolished, futuristic aesthetic",
+    "negativePrompt": "low-res, blurry, pixelated\r\ncompression artifacts\r\nvisible seams, harsh tiling\r\nbanding\r\nnoisy, grainy\r\nbroken normals\r\njagged edges, aliasing\r\nflat matte, desaturated\r\noverexposed bloom, blown highlights\r\nunderexposed shadows\r\nnon-PBR, legacy shader\r\nclipping, geometry artifacts\r\nwatermark, text\r\nrandom objects, faces, hands\r\ninaccurate color balance\r\nblurry reflections\r\nposterization\r\ninconsistent lighting\r\nlow poly",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1116168098,
+    "w3CTraceId": "3171e76a0f222922701e797a99be9d76",
+    "refinementMode": "Generation"
+}
